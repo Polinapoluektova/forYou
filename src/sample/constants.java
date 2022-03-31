@@ -5,11 +5,18 @@ public class constants {
     public static final String USER_NAME = "Email";
     public static final String USERS_PASSWORD = "Password";
 
-    public static final String USERS_ID = "ID";
-    public static final String USERS_FIRSTNAME = "firstname";
-    public static final String USERS_LASTNAME = "lastname";
-    public static final String USERS_LOGIN = "login";
 
+    public static final String FLYERS_TABLE = "users";
+    public static final String FLYERS_FIRSTNAME = "FirstName";
+    public static final String FLYERS_LASTNAME = "LastName";
+    public static final String FLYERS_LOGIN = "Email";
+    public static final String FLYERS_OFFICE = "Email";
+
+    public static final String OFFICES_TABLE = "offices";
+    public static final String OFFICES_NAME = "Title";
+
+    public static final String ROLES_TABLE = "roles";
+    public static final String ROLES_NAME = "Title";
 
 
 
